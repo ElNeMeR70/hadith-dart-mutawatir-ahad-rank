@@ -1,0 +1,5 @@
+name: hadith_dart_mutawatir_ahad_rank
+description: "Transmission Multiplicity Classifier (Mutawatir, Mashhur, Aziz, Gharib)"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
